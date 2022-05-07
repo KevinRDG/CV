@@ -5,11 +5,7 @@
   hr {
     
     border-style: none;
-<<<<<<< HEAD
-    border-top: 5px dotted rgb(0, 0, 0);
-=======
-    border-top: 5px dotted grey;
->>>>>>> parent of 99c93f7 (Update styles.css)
+    border-top: 5px dotted gray ;
     width: 5%;
   }
   h1 { 
